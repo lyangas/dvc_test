@@ -1,7 +1,5 @@
-md5: 3f2228f2202178e6f6ada72ee4d98d6a
 outs:
-- md5: 07274d1fba2900290499be7b28bc65bb.dir
+- md5: 120f6b1f3dc1f74a3b06caa2919e5d34.dir
   path: data
-  cache: true
-  metric: false
-  persist: false
+  size: 23548160
+  nfiles: 6

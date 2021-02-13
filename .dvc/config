@@ -1,6 +1,4 @@
 [core]
     remote = mylocal_remote
-['remote "local_remote"']
-    url = /Users/langasovid/Documents/dvc_test/local_storage
 ['remote "mylocal_remote"']
     url = /Users/langasovid/Documents/dvc_test/local_storage
